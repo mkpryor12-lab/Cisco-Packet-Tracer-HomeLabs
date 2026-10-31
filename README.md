@@ -39,7 +39,7 @@ Learning Objectives:
   - Create a profile of practical labs aligned with Cybersecurity work
   - Develop repeatable troubleshooting workflows
 
-Screenshots (Coming Soon):
+Screenshots:
 <img width="1045" height="714" alt="image" src="https://github.com/user-attachments/assets/e8076f50-db7c-4372-81f8-ada77188d9de" />
 
 
