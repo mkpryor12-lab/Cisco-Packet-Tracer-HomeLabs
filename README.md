@@ -40,8 +40,8 @@ Learning Objectives:
   - Develop repeatable troubleshooting workflows
 
 Screenshots (Coming Soon):
-I will add topology screenshots and configuration notes once the lab is further in 
-development.
+<img width="1045" height="714" alt="image" src="https://github.com/user-attachments/assets/e8076f50-db7c-4372-81f8-ada77188d9de" />
+
 
 Future Plans for this Repo:
 - Expand the Network Troubleshooting Assistant lab
